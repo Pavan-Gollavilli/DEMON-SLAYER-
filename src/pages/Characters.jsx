@@ -1,5 +1,5 @@
 import React from 'react';
-import characterData from '../pages/characterData.json';
+import characterData from './characterdata.json';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import { useEffect } from 'react';
