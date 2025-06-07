@@ -2,21 +2,21 @@
   {
     "id": 1,
     "name": "Tanjiro Kamado",
-    "image": "public/assets/Tanjiro-Kamado-MC-1.png",
+    "image": "/assets/Tanjiro-Kamado-MC-1.png",
     "text": "A kind-hearted and determined Demon Slayer who uses Water Breathing and later Sun Breathing.",
     "skills": ["Water Breathing", "Sun Breathing", "Enhanced Smell"]
   },
   {
     "id": 2,
     "name": "Nezuko Kamado",
-    "image": "public/assets/Nezuko- Kamado-MC-2.png",
+    "image": "/assets/Nezuko- Kamado-MC-2.png",
     "text": "Tanjiro's sister turned demon, retains human emotions and protects innocents.",
     "skills": ["Blood Demon Art", "Regeneration", "Sun Resistance"]
   },
 {
   "id": 3,
   "name": "Inosuke Hashibira",
-  "image": "public/assets/Inosuke-Hashibira-MC-3.png",
+  "image": "/assets/Inosuke-Hashibira-MC-3.png",
   "text": "A fierce and wild fighter raised by boars, uses Beast Breathing.",
   "skills": ["Beast Breathing", "Animal Instincts", "Dual Wielding"]
 },
@@ -24,49 +24,49 @@
   {
     "id": 4,
     "name": "Zenitsu Agatsuma",
-    "image": "public/assets/Zenitsu-Agatsuma-MC-4.png",
+    "image": "/assets/Zenitsu-Agatsuma-MC-4.png",
     "text": "A cowardly boy with great potential who uses Thunder Breathing.",
     "skills": ["Thunder Breathing", "Godspeed", "Enhanced Hearing"]
   },
   {
     "id": 5,
     "name": "Giyu Tomioka",
-    "image": "public/assets/Giyu-Tomioka-H-1.png",
+    "image": "/assets/Giyu-Tomioka-H-1.png",
     "text": "The Water Hashira of the Demon Slayer Corps, calm and powerful.",
     "skills": ["Water Breathing", "Calm Presence", "Hashira Authority"]
   },
   {
     "id": 6,
     "name": "Kyojuro Rengoku",
-    "image": "public/assets/Kyojuro-Rengoku-H-3.png",
+    "image": "/assets/Kyojuro-Rengoku-H-3.png",
     "text": "The Flame Hashira, known for his enthusiasm and fiery power.",
     "skills": ["Flame Breathing", "Indomitable Will", "Blazing Speed"]
   },
   {
     "id": 7,
     "name": "Shinobu Kocho",
-    "image": "public/assets/Shinobu-Kocho-H-2.png",
+    "image": "/assets/Shinobu-Kocho-H-2.png",
     "text": "The Insect Hashira who uses poison and agility in battle.",
     "skills": ["Insect Breathing", "Poison Mastery", "Speed Strikes"]
   },
   {
     "id": 8,
     "name": "Tengen Uzui",
-    "image": "public/assets/Tengen-Uzui-H-4.png",
+    "image": "/assets/Tengen-Uzui-H-4.png",
     "text": "The flamboyant Sound Hashira with ninja skills.",
     "skills": ["Sound Breathing", "Ninjutsu", "Enhanced Hearing"]
   },
   {
     "id": 9,
     "name": "Mitsuri Kanroji",
-    "image": "public/assets/Mitsuri-Kanroji-H-5.png",
+    "image": "/assets/Mitsuri-Kanroji-H-5.png",
     "text": "The Love Hashira, known for her strength and emotional power.",
     "skills": ["Love Breathing", "Superhuman Strength", "Flexibility"]
   },
   {
     "id": 10,
     "name": "Gyomei Himejima",
-    "image": "public/assets/Gyomei-Himejima-H-6.png",
+    "image": "/assets/Gyomei-Himejima-H-6.png",
     "text": "The Stone Hashira, blind but extremely powerful and calm.",
     "skills": ["Stone Breathing", "Superhuman Strength", "Heightened Senses"]
   },
@@ -87,7 +87,7 @@
   {
     "id": 13,
     "name": "Muzan Kibutsuji",
-    "image": "public/assets/Muzan-Kibutsuji.png",
+    "image": "/assets/Muzan-Kibutsuji.png",
     "text": "The primary antagonist, the first demon and leader of all demons.",
     "skills": ["Blood Manipulation", "Shape-shifting", "Immortality"]
   }
